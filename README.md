@@ -20,7 +20,7 @@ This project analyzes healthcare access in the United States using 2023 Behavior
 
 ## Dashboard Preview
 
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ## Key Findings
 
